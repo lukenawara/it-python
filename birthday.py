@@ -1,3 +1,3 @@
-from 03-banner1 import banner
+from banner import banner
 
 banner("birthday","Luke")
